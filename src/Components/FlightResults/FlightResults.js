@@ -1,5 +1,5 @@
 import React from 'react';
-import './FlightResults.css'; // Results.css dosyasını içe aktarın
+import './FlightResults.css'; 
 
 const FlightResults = ({ searchResults }) => {
   return (

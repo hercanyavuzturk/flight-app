@@ -43,8 +43,7 @@ const FlightSearch = () => {
     const isValid = validateFields();
 
     if (isValid) {
-      // Burada arama işlemlerini yapabilirsiniz
-      // API çağrıları ve sonuçların işlenmesi gibi
+    
 
       const searchResults = mockFlights.filter((flight) => {
         const flightDepartureDateMock = flight.departureDate;
