@@ -18,12 +18,12 @@ const mockFlights = [
       price: '$350',
     },
     {
-        id: 2,
-        departureAirport: 'TR',
-        arrivalAirport: 'JFK',
-        departureDate: '2023-08-30',
-        duration: '5h 30m',
-        price: '$350',
+      id: 3,
+      departureAirport: 'TR',
+      arrivalAirport: 'JFK',
+      departureDate: '2023-08-30',
+      duration: '5h 30m',
+      price: '$350',
       },
    
     
